@@ -1,0 +1,6 @@
+*.class
+input.txt
+*.log
+.DS_Store
+App/
+Classess/
