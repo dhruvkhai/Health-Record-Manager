@@ -30,7 +30,11 @@ javac *.java
 3. Run the application:
 
 ```bash
-java Main
+java -cp . Main
 ```
 
 Records are saved automatically to `patients.csv` in the same folder where you run the application.
+
+## Quick start
+
+If you prefer one command, run `run.bat` from the project root.

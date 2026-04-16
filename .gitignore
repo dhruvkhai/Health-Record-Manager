@@ -17,6 +17,7 @@ patients.dat
 *.class
 input.txt
 *.log
+*err.txt
 
 # Old folders
 App/
