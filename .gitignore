@@ -12,3 +12,12 @@ Thumbs.db
 
 # Application data
 patients.dat
+
+# Build artifacts
+*.class
+input.txt
+*.log
+
+# Old folders
+App/
+Classess/
